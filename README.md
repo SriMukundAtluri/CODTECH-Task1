@@ -1,24 +1,38 @@
 Name: SRI MUKUND ATLURI
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT3MTDS84
+
 Domain: Data Analytics
+
 Duration: August to November 2024
+
 Mentor: Muzammil Ahmed
 
 Overview of the Project
+
 Project: Exploratory Data Analysis (EDA) on NEW YEAR SALES Dataset
 
 
 Objective
+
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
 
 Key Activities
+
 Data Cleaning: Ensuring the dataset is free from inconsistencies and missing values.
+
 Data Visualization: Creating visualizations to understand data distributions, trends, and relationships.
+
 Correlation Analysis: Identifying correlations between population figures across different years.
-Technologies Used
+
+Technologies Used:
+
 Python: The primary programming language for data analysis.
+
 pandas: Used for data manipulation and analysis.
+
 matplotlib: Employed for creating static, animated, and interactive visualizations.
 seaborn: Utilized for making statistical graphics that are informative and attractive.
 Key Insights
